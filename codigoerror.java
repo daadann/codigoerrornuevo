@@ -1,7 +1,8 @@
 public class TestMain {
 
+	//corregido
 	public static void main(String[] args) {
-		Syste.ou.println(corregir
+		System.out.println("corregir");
 
 	}
 
